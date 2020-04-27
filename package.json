@@ -1,0 +1,8 @@
+{
+  "name": "good-react-annotation",
+  "version": "1.0.0",
+  "description": "An annotation tool for image, video, audio, and text",
+  "main": "index.js",
+  "author": "AlexTheGoodman",
+  "license": "MIT"
+}
